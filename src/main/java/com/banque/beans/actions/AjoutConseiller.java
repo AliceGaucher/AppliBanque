@@ -15,7 +15,7 @@ public class AjoutConseiller {
         System.out.println("Le nom du conseiller est : " + nomConseiller + " ;" );
 
         Scanner scanner3 = new Scanner(System.in);
-        System.out.println("Entrez le nom du conseiller :");
+        System.out.println("Entrez le numéro du conseiller :");
         int numero = Integer.parseInt(scanner3.next());
         System.out.println("Le numéro du conseiller est : " + numero + " ;" );
 
